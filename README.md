@@ -35,6 +35,24 @@ Looking only at the target pronoun, A-coref, and B-coref:
 Evaluation code for FCoref, AllenNLP Coref, and Stanza Coref on the GAP-2 dataset is provided in the *eval_coref_models* dir
 
 
+GAP Citation 
+@article{webster-etal-2018-mind,
+    title = "Mind the {GAP}: A Balanced Corpus of Gendered Ambiguous Pronouns",
+    author = "Webster, Kellie  and
+      Recasens, Marta  and
+      Axelrod, Vera  and
+      Baldridge, Jason",
+    journal = "Transactions of the Association for Computational Linguistics",
+    volume = "6",
+    year = "2018",
+    address = "Cambridge, MA",
+    publisher = "MIT Press",
+    url = "https://aclanthology.org/Q18-1042",
+    doi = "10.1162/tacl_a_00240",
+    pages = "605--617",
+}
+
+
 
 
 
